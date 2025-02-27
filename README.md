@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I am Khushi Bhaskar
+## 🚀 About Me
 
-<!--
-**Khushi-bhaskar01/Khushi-bhaskar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Pursuing BTech in Computer Science Engineering (AI) at USICT, GGSIPU
+- 💻 Passionate about AI, Full-Stack Development, and Open Source
 
-Here are some ideas to get you started:
+## 🌟 SWOC Participation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Contributing to SWOC 2025
+- Engaging in open-source projects and collaborating with the community
+- Enhancing coding skills and learning from real-world development
+
+## 🤝 Let's Connect!
+https://www.linkedin.com/in/khushi-bhaskar-b00586324/
+
+---
+
+📌 *Always open to collaborating on Open Source* 🚀
+
+
+
+
