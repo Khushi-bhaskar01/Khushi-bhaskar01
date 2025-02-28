@@ -1,4 +1,5 @@
 ## Hi there 👋 I am Khushi Bhaskar
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Khushi-bhaskar01)
 ## 🚀 About Me
 
 - 🎓 Pursuing BTech in Computer Science Engineering (AI) at USICT, GGSIPU
