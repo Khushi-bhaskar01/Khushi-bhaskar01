@@ -7,7 +7,7 @@
 
 ## 🌟 SWOC Participation
 
-- Contributing to SWOC 2025
+- Contributed to SWOC 2025
 - Engaging in open-source projects and collaborating with the community
 - Enhancing coding skills and learning from real-world development
 
