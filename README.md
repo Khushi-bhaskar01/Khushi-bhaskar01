@@ -36,9 +36,7 @@
 
 ## ✨ SWOC & Open Source Participation
 
-- 💻 Contributed to **SWOC 2025**
-- 🤝 Collaborated with amazing developers across the globe
-- 📈 Grew skills through **real-world development** and teamwork
+🧑‍💻 Contributed to **SWOC 2025** and engaged in **real-world open-source development**
 
 ---
 
