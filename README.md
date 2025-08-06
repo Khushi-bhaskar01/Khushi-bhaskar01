@@ -48,6 +48,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-bhaskar01&layout=compact&theme=tokyonight" />
 </div>
 
+
+---
+
+## 📈 Contribution Graph 
+
+[![Khushi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khushi-bhaskar01&theme=tokyo-night&custom_title=GitHub%20Contributions%20Graph%20(All-Time)&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## 📬 Let's Connect!
