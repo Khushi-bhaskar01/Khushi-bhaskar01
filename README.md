@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🎓 BTech CSE (AI) student at **USICT, GGSIPU**
-- 💡 Passionate about **AI**, **Full-Stack Development**, and **Open Source**
+- 💡 Passionate about **AI**, **MERN Stack Development**, and **Open Source**
 - 🌟 Believer in continuous learning and community-driven development
 
 ---
@@ -36,18 +36,7 @@
 
 ## ✨ SWOC & Open Source Participation
 
-🧑‍💻 Contributed to **SWOC 2025** and engaged in **real-world open-source development**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-bhaskar01&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-bhaskar01&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-bhaskar01&layout=compact&theme=tokyonight" />
-</div>
-
+🧑‍💻 Contributed to **SWOC 2024** and engaged in **real-world open-source development**
 
 ---
 
