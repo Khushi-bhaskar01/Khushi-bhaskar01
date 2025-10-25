@@ -38,6 +38,11 @@
 
 🧑‍💻 Contributed to **SWOC 2024** and engaged in **real-world open-source development**
 
+<p align="center">
+  <img src="./Contributor SSOC.png" alt="SWOC Contributor" width="150" />
+  <img src="./Postman - Postman API Fundamentals Student Expert - 2025-01-13.png" alt="Postman Student Expert" width="150" />
+</p>
+
 ---
 
 
