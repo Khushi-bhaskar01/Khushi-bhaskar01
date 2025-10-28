@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%E2%9C%A8;MERN-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%93%96;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khushi-bhaskar&label=Profile%20Views&color=f78c6c&style=for-the-badge" alt="Profile views counter" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -44,7 +48,6 @@
 </p>
 
 ---
-
 
 ## 📬 Let's Connect!
 
