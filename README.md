@@ -14,14 +14,14 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 BTech CSE (AI) student at **USICT, GGSIPU**
-- 💡 Passionate about **AI**, **MERN Stack Development**, and **Open Source**
-- 🌟 Believer in continuous learning and community-driven development
+## About Me
+-  BTech CSE (AI) student at **USICT, GGSIPU**
+-  Passionate about **AI**, **MERN Stack Development**, and **Open Source**
+-  Believer in continuous learning and community-driven development
 
 ---
 
-## 🌟 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
