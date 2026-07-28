@@ -109,10 +109,9 @@ and contributing back to the developer community.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khushi-bhaskar01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khushi-bhaskar01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-bhaskar01&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
