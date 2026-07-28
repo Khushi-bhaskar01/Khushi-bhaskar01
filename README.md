@@ -130,7 +130,7 @@ and contributing back to the developer community.
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&section=header"/>
-## <img src="https://img.shields.io/badge/-exit-7AA2F7?style=flat-square&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/-exit-7AA2F7?style=flat-square&logo=gnu-bash&logoColor=white"/>
 
 ```bash
 $ history
