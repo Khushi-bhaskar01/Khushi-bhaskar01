@@ -23,7 +23,6 @@ jobs:
           base: header, activity, community, repositories, metadata
 
           config_timezone: Asia/Kolkata
-          config_theme: tokyonight
 
           plugin_languages: true
           plugin_languages_ignored: html, css
