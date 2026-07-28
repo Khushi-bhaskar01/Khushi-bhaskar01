@@ -100,6 +100,20 @@ and contributing back to the developer community.
 
 </p>
 
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-bhaskar01&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Metrics</h2>
+
+<p align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/Khushi-bhaskar01/Khushi-bhaskar01/main/github-metrics.svg"/>
+</p>
+
+---
+
 <!-- ====================== DASHBOARD ====================== -->
 
 <h2 align="center">📊 Developer Dashboard</h2>
