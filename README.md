@@ -3,9 +3,9 @@
 <!--                  KHUSHI BHASKAR GITHUB                     -->
 <!-- ========================================================= -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Banner"/>
-</p>
+</p> -->
 
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=┌──(khushi㉿github)-[~/];$+whoami;Khushi+Bhaskar;AI+Developer+•+Backend+Engineer;Linux+Enthusiast+🐧;Building+Cool+Things+🚀" />
@@ -100,44 +100,22 @@ and contributing back to the developer community.
 
 </p>
 
----
-<!-- ========================================================= -->
-<!--                  DEVELOPER DASHBOARD                      -->
-<!-- ========================================================= -->
+<!-- ====================== DASHBOARD ====================== -->
 
-# 📊 Developer Dashboard
+<h2 align="center">📊 Developer Dashboard</h2>
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Khushi-bhaskar01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khushi-bhaskar01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-bhaskar01&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-bhaskar01&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Khushi-bhaskar01&theme=tokyonight&hide_border=true"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=Khushi-bhaskar01&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-# 📈 Contribution Activity
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-bhaskar01&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khushi-bhaskar01&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-bhaskar01&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -149,25 +127,9 @@ and contributing back to the developer community.
 
 </p>
 
----
-# 🎧 Currently Playing
 
-<p align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=29fce8b15f444408b5f3347afd58e9e2&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=7aa2f7&bar_color_cover=false"/>
-
-</p>
-
----
-# ⌛ Coding Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&section=header"/>
 ## <img src="https://img.shields.io/badge/-exit-7AA2F7?style=flat-square&logo=gnu-bash&logoColor=white"/>
 
 ```bash
