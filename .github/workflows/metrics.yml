@@ -21,42 +21,29 @@ jobs:
           filename: github-metrics.svg
           template: classic
 
-          # Minimal base
           base: header, metadata
 
           config_timezone: Asia/Kolkata
           config_display: compact
 
           ####################################
-          ## Achievements
-          ####################################
-          plugin_achievements: true
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
-
-          ####################################
-          ## Coding Habits
-          ####################################
-          plugin_habits: true
-          plugin_habits_days: 30
-          plugin_habits_from: 200
-
-          ####################################
-          ## Most Used Topics
-          ####################################
-          plugin_topics: true
-          plugin_topics_limit: 20
-          plugin_topics_mode: starred
-
-          ####################################
-          ## Productivity
+          ## Pull Requests / Issues
           ####################################
           plugin_followup: true
           plugin_followup_sections: repositories
 
           ####################################
-          ## Disabled (already shown elsewhere)
+          ## Topics
           ####################################
+          plugin_topics: true
+          plugin_topics_limit: 18
+          plugin_topics_mode: icons
+
+          ####################################
+          ## Disable broken plugins
+          ####################################
+          plugin_habits: false
+          plugin_achievements: false
           plugin_languages: false
           plugin_isocalendar: false
           plugin_stars: false
