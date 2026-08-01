@@ -38,22 +38,21 @@ Current Focus:
  • Building Real World Projects
 ```
 ## <img src="https://img.shields.io/badge/-neofetch-7AA2F7?style=flat-square&logo=gnu-bash&logoColor=white"/>
-
-```console
+```
                    -`                     khushi@github
                   .o+`                    --------------------------
-                 `ooo/                    OS: Arch Linux (Aesthetic)
-                `+oooo:                   Shell: zsh
-               `+oooooo:                  Editor: VS Code + Neovim
-               -+oooooo+:                 IDE: IntelliJ | VS Code
-             `/:-:++oooo+:                Languages: C++ • Python • JavaScript • TypeScript
-            `/++++/+++++++:               Backend: Node.js • Express • MongoDB
-           `/++++++++++++++:              Frontend: React • Next.js • Tailwind CSS
-          `/+++ooooooooooooo/`            AI: Python • NLP • ML
-         ./ooosssso++osssssso+`           Cloud: Firebase • Vercel • Netlify
-        .oossssso-````/ossssss+`          Tools: Git • GitHub • Docker • Postman
-       -osssssso.      :ssssssso.         Learning: Kubernetes • Linux • System Design
-      :osssssss/        osssso+++.        Status: Building. Learning. Shipping.
+                 `ooo/                    OS: Windows 11 + Ubuntu (WSL)
+                `+oooo:                   Shell: Bash
+               `+oooooo:                  Editor: VS Code
+               -+oooooo+:                 Languages: C++ • Python • JavaScript • TypeScript
+             `/:-:++oooo+:                Backend: Node.js • Express • MongoDB • PostgreSQL
+            `/++++/+++++++:               Frontend: React • Next.js • Tailwind CSS
+           `/++++++++++++++:              AI/ML: Python • NLP • Machine Learning
+          `/+++ooooooooooooo/`            Cloud: Firebase • AWS • Vercel
+         ./ooosssso++osssssso+`           Tools: Git • GitHub • Docker • Postman
+        .oossssso-````/ossssss+`          Learning: Linux • Kubernetes • System Design
+       -osssssso.      :ssssssso.         Focus: Building AI-powered Products
+      :osssssss/        osssso+++.        Status: Always Learning 🚀
      /ossssssss/        +ssssooo/-
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                 `.-/+oso:
@@ -74,11 +73,12 @@ who loves transforming ideas into products.
 
 My journey revolves around:
 
-• 🤖 Artificial Intelligence
-• ⚙️ Backend Engineering
-• 🐧 Linux & Open Source
-• ☁️ Cloud & DevOps
-• 🚀 Hackathons and Building Projects
+• Full Stack Development
+• Artificial Intelligence
+• Backend Engineering
+• Linux & Open Source
+• Cloud & DevOps
+• Hackathons and Building Projects
 
 I enjoy creating software that solves real problems,
 learning something new every week,
@@ -91,10 +91,9 @@ and contributing back to the developer community.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,vscode,cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,docker,git,github,firebase,tailwind,aws,postgres&perline=10"/>
+<img src="https://skillicons.dev/icons?i=vscode,cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,docker,git,github,firebase,tailwind,aws,postgres,linux,bash&perline=10"/>
 
 </p>
-
 
 ---
 
