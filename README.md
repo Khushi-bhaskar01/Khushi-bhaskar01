@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Khushi-bhaskar01/Khushi-bhaskar01/main/banner.jpg" width="100%" alt="Banner">
 </p>
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=┌──(khushi㉿github)-[~/];$+whoami;Khushi+Bhaskar;AI+Developer+•+Backend+Engineer;Linux+Enthusiast+🐧;Building+Cool+Things+🚀" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=┌──(khushi㉿github)-[~/];$+whoami;Khushi+Bhaskar;Full+Stack+Developer+•+Backend+Engineer;Linux+Enthusiast+🐧;Building+Cool+Things+🚀" />
 </h1>
 
 <p align="center">
