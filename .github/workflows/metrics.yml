@@ -18,18 +18,45 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: Khushi-bhaskar01
-
+          filename: github-metrics.svg
           template: classic
 
-          filename: github-metrics.svg
-
-          base: header, activity, community, repositories, metadata
+          # Minimal base
+          base: header, metadata
 
           config_timezone: Asia/Kolkata
+          config_display: compact
 
-          plugin_languages: true
-          plugin_languages_ignored: html, css
+          ####################################
+          ## Achievements
+          ####################################
+          plugin_achievements: true
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
 
-          plugin_isocalendar: true
+          ####################################
+          ## Coding Habits
+          ####################################
+          plugin_habits: true
+          plugin_habits_days: 30
+          plugin_habits_from: 200
 
-          plugin_stars: true
+          ####################################
+          ## Most Used Topics
+          ####################################
+          plugin_topics: true
+          plugin_topics_limit: 20
+          plugin_topics_mode: starred
+
+          ####################################
+          ## Productivity
+          ####################################
+          plugin_followup: true
+          plugin_followup_sections: repositories
+
+          ####################################
+          ## Disabled (already shown elsewhere)
+          ####################################
+          plugin_languages: false
+          plugin_isocalendar: false
+          plugin_stars: false
