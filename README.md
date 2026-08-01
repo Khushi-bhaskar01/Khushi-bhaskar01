@@ -100,16 +100,13 @@ and contributing back to the developer community.
 
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-bhaskar01&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
-<h2 align="center">📈 GitHub Metrics</h2>
+<h2 align="center">🧠 Developer Insights</h2>
 
 <p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/Khushi-bhaskar01/Khushi-bhaskar01/main/github-metrics.svg"/>
+  <img width="60%" src="https://raw.githubusercontent.com/Khushi-bhaskar01/Khushi-bhaskar01/main/github-metrics.svg"/>
 </p>
 
 ---
@@ -119,9 +116,11 @@ and contributing back to the developer community.
 <h2 align="center">📊 Developer Dashboard</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Khushi-bhaskar01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+ <img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Khushi-bhaskar01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-bhaskar01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-bhaskar01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -133,15 +132,13 @@ and contributing back to the developer community.
 </p>
 
 ---
-# 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Khushi-bhaskar01/Khushi-bhaskar01/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&section=header"/>
 <img src="https://img.shields.io/badge/-exit-7AA2F7?style=flat-square&logo=gnu-bash&logoColor=white"/>
@@ -160,8 +157,17 @@ $ history
 
 $ logout
 
-Connection to github closed.
+try {
+    dream();
+    build();
+}
+catch (Failure) {
+    learn();
+    retry();
+}
 
-Thanks for stopping by 👋
-Happy Coding 🚀
+return success;
 ```
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=120&section=footer"/>
+</p>
