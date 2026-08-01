@@ -50,7 +50,7 @@ Current Focus:
            `/++++++++++++++:              AI/ML: Python • NLP • Machine Learning
           `/+++ooooooooooooo/`            Cloud: Firebase • AWS • Vercel
          ./ooosssso++osssssso+`           Tools: Git • GitHub • Docker • Postman
-        .oossssso-````/ossssss+`          Learning: Linux • Kubernetes • System Design
+        .oossssso-````/ossssss+`          Currently Learning: Linux • Kubernetes • System Design
        -osssssso.      :ssssssso.         Focus: Building AI-powered Products
       :osssssss/        osssso+++.        Status: Always Learning 🚀
      /ossssssss/        +ssssooo/-
