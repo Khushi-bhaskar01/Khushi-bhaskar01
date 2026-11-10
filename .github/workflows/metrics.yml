@@ -26,24 +26,9 @@ jobs:
           config_timezone: Asia/Kolkata
           config_display: compact
 
-          ####################################
-          ## Pull Requests / Issues
-          ####################################
           plugin_followup: true
           plugin_followup_sections: repositories
 
-          ####################################
-          ## Topics
-          ####################################
           plugin_topics: true
           plugin_topics_limit: 18
           plugin_topics_mode: icons
-
-          ####################################
-          ## Disable broken plugins
-          ####################################
-          plugin_habits: false
-          plugin_achievements: false
-          plugin_languages: false
-          plugin_isocalendar: false
-          plugin_stars: false
