@@ -41,25 +41,26 @@ Current Focus:
 ```
 ## <img src="https://img.shields.io/badge/-neofetch-7AA2F7?style=flat-square&logo=gnu-bash&logoColor=white"/>
 ```
-                   -`                     khushi@github
-                  .o+`                    --------------------------
-                 `ooo/                    OS: Windows 11 + Ubuntu (WSL)
-                `+oooo:                   Shell: Bash
-               `+oooooo:                  Editor: VS Code
-               -+oooooo+:                 Languages: C++ • Python • JavaScript • TypeScript
-             `/:-:++oooo+:                Backend: Node.js • Express • MongoDB • PostgreSQL
-            `/++++/+++++++:               Frontend: React • Next.js • Tailwind CSS
-           `/++++++++++++++:              AI/ML: Python • NLP • Machine Learning
-          `/+++ooooooooooooo/`            Cloud: Firebase • AWS • Vercel
-         ./ooosssso++osssssso+`           Tools: Git • GitHub • Docker • Postman
-        .oossssso-````/ossssss+`          Currently Learning: Linux • Kubernetes • System Design
-       -osssssso.      :ssssssso.         Focus: Building AI-powered Products
-      :osssssss/        osssso+++.        Status: Always Learning 🚀
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 ``
+            .-/+oossssoo+/-.               khushi@github
+        `:+ssssssssssssssssss+:`           --------------------------
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 26.04 LTS + Windows 11 
+    .ossssssssssssssssssdMMMNysssso.       Shell: Bash
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Editor: VS Code
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Languages: C++ • Python • JavaScript • TypeScript
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Backend: Node.js • Express • MongoDB • PostgreSQL
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Frontend: React • Next.js • Tailwind CSS
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   AI/ML: Python • NLP • Machine Learning
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Cloud: Firebase • AWS • Vercel
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Tools: Git • GitHub • Docker • Postman
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Currently Learning: Linux • Kubernetes • System Design
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Focus: Building AI-powered Products
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Status: Always Learning 🚀
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
 ```
 ## <img src="https://img.shields.io/badge/-cat%20about.md-7AA2F7?style=flat-square&logo=gnu-bash&logoColor=white"/>
 
